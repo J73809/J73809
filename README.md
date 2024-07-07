@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @J73809
+- 👀 I’m interested in code
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: snakes can byte
