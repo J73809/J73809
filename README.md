@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @J7
-- 👀 I’m interested in code (big suprize huh?)
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: It’s all 0’s and 1’s
+[![J7's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
