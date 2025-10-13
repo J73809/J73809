@@ -1,7 +1,7 @@
 # 💫 About Me
 Student & Programmer in Training  
-Currently learning **Python**, **Lua**, **Java**  
-Interests: **Game Development**, **Web Development**, **AI**
+Currently learning **Python**, **Java**  
+Interests: **Game Development**, **App Development**, **AI**
 
 ## 🌐 Socials
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/error-user7)
@@ -10,9 +10,6 @@ Interests: **Game Development**, **Web Development**, **AI**
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats
