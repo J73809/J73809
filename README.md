@@ -1,20 +1,21 @@
 # About Me
-Student & Programmer in Training  
-Currently learning **Python**, **Java**  
-Interests: **Game Development**, **App Development**, **AI**
+ Hello ! I'm J, a 15y old student learning to code.         
+  Have been learning for around 3 years.
 
-## Socials
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jolinrushan7@gmail.com)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/error-user7)
+## More about me
+- I live in **Albania**
+- Student & Aspiring Programmer 
+- Currently learning **Python**, **Java**  
+- Interests: **Game Development**, **App Development**, **AI**
 
-# Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+If you want to contact me you can do it here [Email](mailto:jolinrushan7@gmail.com) or here [Reddit](https://reddit.com/user/error-user7)  
+ Feel free to do it anytime except he weekends                                                                                                      
 
-# GitHub Stats
+
+
+ These are my most used programming languages I'm learning:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=J73809&theme=github_dark&hide_border=true&layout=compact)
 
 ## Support
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/j73809)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/j73809)
+You can support me at  my [Kofi](https://ko-fi.com/j73809) or at [Buy me a coffee](https://buymeacoffee.com/j73809)
