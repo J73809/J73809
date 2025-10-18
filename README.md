@@ -5,11 +5,11 @@
 ## More about me
 - I live in **Albania**
 - Student & Aspiring Programmer 
-- Currently learning **Python**, **Java**  
+- Currently learning **Python** and **Java**  
 - Interests: **Game Development**, **App Development**, **AI**
 
 If you want to contact me you can do it here [Email](mailto:jolinrushan7@gmail.com) or here [Reddit](https://reddit.com/user/error-user7)  
- Feel free to do it anytime except he weekends                                                                                                      
+ Feel free to do it anytime except the weekends                                                                                                      
 
 
 
