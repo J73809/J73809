@@ -5,7 +5,7 @@
 ## More about me
 - I live in **Albania**
 - Student & Aspiring Programmer 
-- Currently learning **Python** and **Java**  
+- Currently learning **Python** and **C#**  
 - Interests: **Game Development**, **App Development**, **AI**
 
 If you want to contact me you can do it here [Email](mailto:jolinrushan7@gmail.com) or here [Reddit](https://reddit.com/user/error-user7)  
