@@ -1,5 +1,5 @@
 # About Me
- Hello ! I'm J, a 15y old student learning to code.         
+ Hello ! I'm J, a 16y old student learning to code.         
   Have been learning for around 3 years.
 
 ## More about me
